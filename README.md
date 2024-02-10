@@ -15,7 +15,7 @@ English : Excellente <br> French : Excellente <br> Kinyarwanda: Very good <br> K
 </p>
 <p>
 
-<h3>  style= "color : yellow ;"> WORKING EXPERIENCE </h3>
+
 *Save the Children as assistante in 2018-2019 <br> * Edufam as Supervior in 2020-2021 <br>  * Bright Future Family as Founder
 </P>
 
@@ -26,12 +26,5 @@ English : Excellente <br> French : Excellente <br> Kinyarwanda: Very good <br> K
 <p> 
 
 <h3 style ="color: yellow"> REFERENCES </h3>
-<b>* UWERA Floride:</b> Assistance Maison Shalom  <b> Tel:0788559375</b> <br> <b> * NKURUNZIZA Yves:</b> Chief of Save the Children <b>Tel:0782339558</b> <br> <b>* DUSABE Flanella:<b> Chief of Edufam <b> Tel : 0790898251
-
- </p>
-<p>
-I declare that the above information are true <br> <p> <b> KIMANA Franchise </b> </p>
-
-</body>
-</html>
+<b>* UWERA Floride:</b> Assistance Maison Shalom  <b> Tel:0788559375</b> <br> <b> * NKURUNZIZA Yves:</b> Chief of Save the Children <b>Tel:0782339558</b> <br> <b>* DUSABE Flanella:<b> Chief of Edufam <b> Tel : 0
 
