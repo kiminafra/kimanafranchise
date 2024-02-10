@@ -1,9 +1,4 @@
-<!html>
-<html>
-<head>
-<title> MY CV </title>
 
-</head>
 <body bgcolor="#034" text ="#FFCCCC"> 
      
 <h1 style="color:green;text-align:center;background-color:white;width :500px;height:300 px"> <i> CV </i> <align="right-side"> On 03<sup>rd</sup>/01/2024 </align="right-side">  </h1> 
