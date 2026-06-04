@@ -2,11 +2,17 @@
 
 Hi! I'm **Kimana Franchise**, a dedicated UI/UX Designer from Kigali, Rwanda, passionate about transforming complex user needs into intuitive, engaging digital experiences.
 
+---
+
 ## 🌐 View My Portfolio
 
-**[Visit my portfolio →](https://kiminafra.github.io/kimanafranchise/)**
+This repository contains my professional portfolio website. You have two ways to view it:
 
-This repository contains my professional portfolio website showcasing my design work, skills, experience, and more.
+### Option 1: View Live Website (Recommended)
+**[Click here to visit my live portfolio →](https://kiminafra.github.io/kimanafranchise/)**
+
+### Option 2: View the Code
+If you want to see the portfolio code, check out the `index.html` file in this repository.
 
 ---
 
@@ -20,9 +26,20 @@ This repository contains my professional portfolio website showcasing my design 
 
 ## 🛠️ Design Tools & Skills
 
-- **Design Tools**: Figma, Adobe XD, Sketch
-- **Expertise**: UI/UX Design, Design Systems, Usability & Heuristics, Wireframing, Prototyping
-- **Other**: User Research, HTML/CSS, Cross-functional collaboration
+**Design Tools:**
+- Figma
+- Adobe XD
+- Sketch
+
+**Expertise:**
+- UI/UX Design
+- Design Systems
+- Usability & Heuristics
+- Wireframing
+- Prototyping
+- User Research
+- HTML/CSS
+- Cross-functional collaboration
 
 ## 💼 Experience
 
@@ -47,11 +64,23 @@ University of Kigali | 2021 – 2026
 - Business Club (2019)
 - Humanitarian Project (2018)
 
+## 🌍 Languages
+
+- **English** - Advanced
+- **French** - Fluent
+
 ## 📞 Let's Connect
 
 - **Email**: [kimanafranchise@gmail.com](mailto:kimanafranchise@gmail.com)
 - **Phone**: +250 780 843 959
 - **Location**: Kigali, Rwanda
+
+---
+
+## 📁 Repository Contents
+
+- `index.html` - Full portfolio website with all sections
+- `README.md` - This file with project information
 
 ---
 
