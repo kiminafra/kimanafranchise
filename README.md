@@ -1,30 +1,58 @@
+# 👋 Welcome to My Portfolio
 
-<body bgcolor="#034" text ="#FFCCCC"> 
-     
-<h1 style="color:green;text-align:center;background-color:white;width :500px;height:300 px"> <i> CV </i> <align="right-side"> On 03<sup>rd</sup>/01/2024 </align="right-side">  </h1> 
- 
+Hi! I'm **Kimana Franchise**, a dedicated UI/UX Designer from Kigali, Rwanda, passionate about transforming complex user needs into intuitive, engaging digital experiences.
 
-<h3 style="color:yellow;">PERSONAL IDENTIFICATION </h3>
- <p style="color:#00cccc;font-Family:time romain;">
-Name: KIMANA <br> Surname :Franchise <br> Status : Married <br> Nationality : Burundian <br> Residention : Kigali <br> Date of birth : 11/01/1997
-</p>
+## 🌐 View My Portfolio
 
-<h3 style ="color: yellow"> LANGUAGES </h3>
-<p style="background-color:maroon;color :pink;width :200px;height:100 px;"> 
-English : Excellente <br> French : Excellente <br> Kinyarwanda: Very good <br> Kiswahili: Good
-</p>
-<p>
+**[Visit my portfolio →](https://kiminafra.github.io/kimanafranchise/)**
 
+This repository contains my professional portfolio website showcasing my design work, skills, experience, and more.
 
-*Save the Children as assistante in 2018-2019 <br> * Edufam as Supervior in 2020-2021 <br>  * Bright Future Family as Founder
-</P>
+---
 
-<h3 style="color: yellow"> EDUCATION BACKGROUND </h3>
-<p> <b>*2021-2024:</b> Undergraduate at UOK <br> <b>*2017-2019:</b> Secondary school at RUSUMO HIGH school <br> <b>*2014-2016:</b> Ordinary Level From Burundian
- </p>
+## 📋 About Me
 
-<p> 
+- 🎨 **UI/UX Designer** with 3+ years of design study
+- 💼 Currently completing my **Bachelor of Business Information Technology** at the University of Kigali
+- 🌍 Based in **Kigali, Rwanda** | Designing for the world
+- 🤝 Strong background in cross-functional collaboration and user-centered design
+- 📚 Fluent in **English** and **French**
 
-<h3 style ="color: yellow"> REFERENCES </h3>
-<b>* UWERA Floride:</b> Assistance Maison Shalom  <b> Tel:0788559375</b> <br> <b> * NKURUNZIZA Yves:</b> Chief of Save the Children <b>Tel:0782339558</b> <br> <b>* DUSABE Flanella:<b> Chief of Edufam <b> Tel : 0
+## 🛠️ Design Tools & Skills
 
+- **Design Tools**: Figma, Adobe XD, Sketch
+- **Expertise**: UI/UX Design, Design Systems, Usability & Heuristics, Wireframing, Prototyping
+- **Other**: User Research, HTML/CSS, Cross-functional collaboration
+
+## 💼 Experience
+
+**UI/UX Design Intern** @ Solvit Africa (Mar – Jun 2026)
+- Collaborated on mobile app and website UI/UX design
+- Contributed to system design and component library maintenance
+- Delivered user-centered design solutions across web and mobile platforms
+
+**Volunteer & Community Leadership** (2017 – 2020)
+- Team Leader at Maison Shalom
+- Humanitarian worker at Save the Children Rwanda
+- EDUFAM volunteer
+- Founder of service business
+
+## 📚 Education
+
+**Bachelor of Business Information Technology**  
+University of Kigali | 2021 – 2026
+
+**Certifications:**
+- UI/UX Design Course (Solvit Africa, 2026)
+- Business Club (2019)
+- Humanitarian Project (2018)
+
+## 📞 Let's Connect
+
+- **Email**: [kimanafranchise@gmail.com](mailto:kimanafranchise@gmail.com)
+- **Phone**: +250 780 843 959
+- **Location**: Kigali, Rwanda
+
+---
+
+© 2026 Kimana Franchise. All rights reserved.
